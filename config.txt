@@ -1,6 +1,6 @@
-﻿token= التوكن
-owner= الايدي مالتك
-prefix= البرفكس
-game= البلينق
+token= NTk3NDI3MzQ0MDk2ODg2ODA1.XSH7mQ.mrWp-Or3jbPyYTNJwGRr5cLsJTo
+owner= 431636432185065482
+prefix= k
+game=Streaming Smka
 stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
 songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
